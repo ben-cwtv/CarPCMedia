@@ -1,0 +1,6 @@
+* Add an option to set a default tab.
+* Add addon settings (radio board path, spotify details, )
+* Add option to set FM or DAB as default load
+* Set all comnponenets to have a unique name
+
+* Add Status lable (Searching, Playing, Stopped, Etc), GetPlayStatus function
